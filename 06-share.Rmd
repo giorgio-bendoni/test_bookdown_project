@@ -12,6 +12,11 @@ By default, users will be directed to a 404 page if they try to access a webpage
 
 Bookdown HTML books will provide HTML metadata for social sharing on platforms like Twitter, Facebook, and LinkedIn, using information you provide in the `index.Rmd` YAML. To setup, set the `url` for your book and the path to your `cover-image` file. Your book's `title` and `description` are also used.
 
+# esperimento di un nuovo capitolo
+
+asvarvarv
+aervaevarv
+aervaevare
 
 
 This `gitbook` uses the same social sharing data across all chapters in your book- all links shared will look the same.
